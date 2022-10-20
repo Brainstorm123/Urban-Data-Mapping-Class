@@ -8,7 +8,8 @@ The next issue was uploading the 311 data as a delimited text with geometry poin
  was about following the instructions and choosing the path of visualizing the data.
  
  The first image below shows the point representation: 311 complaints by descriptor
- using the categorised feature under symbology.
+ using the categorised feature under symbology. The most dominant noise complaint was of 
+ loud music/parties (purple dots). In the map below, each dot represents a single noise complaint.
  ![](assignment2images/311%20points%20categorised.png)
  
  The second image shows a graduated map of Manhattan with labels of the count of complaints per NTA code division.
@@ -19,6 +20,7 @@ The next issue was uploading the 311 data as a delimited text with geometry poin
  Processing tools -> vector table -> join using field values -> nta code
  
  Next was to use the field calculator to calculate the population density per nta code area.
+ I chose population density because noise density shows a concentration of people at a particular geographical area.
  Next, I created a graduated map of 6 classes showing population density along with labels of the population.
 ![](assignment2images/graduated%20pop_density%20with%20population%20labels.png)
 

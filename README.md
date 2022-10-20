@@ -1,7 +1,7 @@
 # Urban-Data-Mapping-Class
 Class assignments and participation
 
-For this assignment, I had issue filtering out the data 
+For this assignment, I had issues filtering out the data 
 not realising I could filter using 'containing noise' as opposed to 'is noise'
 The next issue was uploading the 311 data as a delimited text with geometry points
  of latitude and longitude. After these issues were resolved, the rest of the assignment 
@@ -14,7 +14,7 @@ The next issue was uploading the 311 data as a delimited text with geometry poin
  The second image shows a graduated map of Manhattan with labels of the count of complaints per NTA code division.
  ![](assignment2images/graduated%20map%20with%20number%20of%20noise%20complaints.png)
  
- The final image shows the map of myy data (or a combination or 1 or more of the analyses).
+ The final image shows the map of my data (or a combination or 1 or more of the analyses).
  Using the NTA population data (combining it with the initial map using 
  Processing tools -> vector table -> join using field values -> nta code
  
